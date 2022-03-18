@@ -13,7 +13,7 @@ This repository contains the project files for Project 1: Literacy situation mod
 
 ## Report
 
-The report is available at in the root of the repository [Add link here].
+The report is available at in the root of the repository [Report (Literacy_situation_models_knowledge_base_creation)](./Literacy_situation_models_knowledge_base_creation.pdf).
 
 ## Data
 
