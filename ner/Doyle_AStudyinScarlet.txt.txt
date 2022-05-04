@@ -1,1 +1,1 @@
-['holmes', 'drebber', 'ferrier', 'sherlock', 'stangerson', 'lestrade', 'gregson', 'jefferson', 'john', 'lucy']
+['holmes', 'drebber', 'ferrier', 'sherlock', 'lestrade', 'stangerson', 'gregson', 'jefferson', 'john', 'lucy'][96, 62, 60, 50, 47, 47, 44, 37, 32, 29]

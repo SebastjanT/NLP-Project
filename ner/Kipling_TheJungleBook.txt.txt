@@ -1,1 +1,1 @@
-['mowgli', 'bagheera', 'rikki', 'nag', 'wolf', 'baloo', 'shere', 'khan', 'toomai', 'kotick']
+['mowgli', 'bagheera', 'nag', 'rikki', 'wolf', 'baloo', 'khan', 'shere', 'toomai', 'kotick'][218, 129, 110, 109, 108, 98, 87, 87, 84, 78]

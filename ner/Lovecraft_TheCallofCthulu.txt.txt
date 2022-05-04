@@ -1,1 +1,1 @@
-['johansen', 'cthulhu', 'wilcox', 'legrasse', 'angell', 'castro', 'emma', 'webb', 'mate', 'carven']
+['johansen', 'wilcox', 'cthulhu', 'legrasse', 'angell', 'castro', 'emma', 'webb', 'mate', 'carven'][27, 24, 23, 23, 15, 9, 9, 7, 6, 5]

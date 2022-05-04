@@ -1,1 +1,1 @@
-['conan', 'khosatral', 'jehungir', 'octavia', 'yuetshi', 'ghaznavi', 'dagon', 'khel', 'vilayet', 'agha']
+['conan', 'khosatral', 'jehungir', 'yuetshi', 'octavia', 'ghaznavi', 'dagon', 'khel', 'vilayet', 'agha'][76, 31, 30, 18, 18, 12, 9, 8, 7, 7]

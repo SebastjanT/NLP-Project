@@ -1,1 +1,1 @@
-['conan', 'aram', 'cimmerian', 'baksh', 'totrasmek', 'zamboula', 'zabibi', 'hanuman', 'khan', 'jungir']
+['conan', 'aram', 'cimmerian', 'baksh', 'totrasmek', 'zamboula', 'zabibi', 'hanuman', 'jungir', 'khan'][117, 43, 26, 26, 25, 23, 14, 13, 10, 10]

@@ -39,7 +39,7 @@ def process_ner(input_tokenized):
         name_list = [x.split(' ') for x in name_list]
         name_list = process_list(name_list)
         name_list = [x for x in name_list if len(x) >= 2]
-        name_list = [x for x in name_list if x not in common_words]
+        # name_list = [x for x in name_list if x not in common_words]
 
         if name_list != []:
             out.append(name_list)
@@ -103,17 +103,19 @@ if __name__ == '__main__':
 
     short_stories = []
 
-    # for file in os.listdir(datadir1):
-    #     if file.endswith('.txt'):
-    #         short_stories.append(file)
-
-    for file in os.listdir(datadir2):
+    for file in os.listdir(datadir1):
         if file.endswith('.txt'):
             short_stories.append(file)
 
+    # for file in os.listdir(datadir2):
+    #     if file.endswith('.txt'):
+    #         short_stories.append(file)
+
     for curstory in short_stories:
 
-        story = read(curstory, datadir2)
+        print('delam na ' + curstory)
+
+        story = read(curstory, datadir1)
 
         sent_tokens = nltk.sent_tokenize(story)
 
@@ -123,6 +125,7 @@ if __name__ == '__main__':
 
         with open(f"{curstory}.txt", "w") as output:
             output.write(str(chars))
+            output.write(str(freqs))
 
     print('done')
 
