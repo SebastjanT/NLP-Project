@@ -52,4 +52,4 @@ Since our plan was to determine what characters appear in these stories, a good 
 
 A proof of concept that sentiment analysis can provide valuable information if paired with NER for protagonist and antagonist detection.
 The analysis inculdes a custom output of the NER algorithm (that includes the immediate sentences of the NE). And a Huggingface default pipline Sentiment analysis for ever character (most frequent 4) of every short story.
-The results are available in the [Jupyter-Notebook](https://github.com/SebastjanT/NLP-Projece/blob/sentiment/sentiment/sentiment.ipynb).
+The results are available in the Jupyter-Notebook `./sentiment/sentiment.ipynb` in the branch `sentiment`.
