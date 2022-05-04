@@ -1,53 +1,4 @@
-﻿A STUDY IN SCARLET.
-
-By A. Conan Doyle
-
-[1]
-
-
-
-     Original Transcriber's Note: This etext is prepared directly
-     from an 1887 edition, and care has been taken to duplicate the
-     original exactly, including typographical and punctuation
-     vagaries.
-
-     Additions to the text include adding the underscore character to
-     indicate italics, and textual end-notes in square braces.
-
-     Project Gutenberg Editor's Note: In reproofing and moving old PG
-     files such as this to the present PG directory system it is the
-     policy to reformat the text to conform to present PG Standards.
-     In this case however, in consideration of the note above of the
-     original transcriber describing his care to try to duplicate the
-     original 1887 edition as to typography and punctuation vagaries,
-     no changes have been made in this ascii text file. However, in
-     the Latin-1 file and this html file, present standards are
-     followed and the several French and Spanish words have been
-     given their proper accents.
-
-	 Part II, The Country of the Saints, deals much with the Mormon Church.
-
-
-
-
-A STUDY IN SCARLET.
-
-
-
-
-
-PART I.
-
-(_Being a reprint from the reminiscences of_ JOHN H. WATSON, M.D., _late
-of the Army Medical Department._) [2]
-
-
-
-
-CHAPTER I. MR. SHERLOCK HOLMES.
-
-
-IN the year 1878 I took my degree of Doctor of Medicine of the
+﻿IN the year 1878 I took my degree of Doctor of Medicine of the
 University of London, and proceeded to Netley to go through the course
 prescribed for surgeons in the army. Having completed my studies there,
 I was duly attached to the Fifth Northumberland Fusiliers as Assistant
@@ -368,10 +319,6 @@ about you than you about him. Good-bye."
 "Good-bye," I answered, and strolled on to my hotel, considerably
 interested in my new acquaintance.
 
-
-
-
-CHAPTER II. THE SCIENCE OF DEDUCTION.
 
 
 WE met next day as he had arranged, and inspected the rooms at No. 221B,
@@ -745,9 +692,6 @@ He clicked his heels together, raised his hand in a salute, and was
 gone.
 
 
-
-
-CHAPTER III. THE LAURISTON GARDEN MYSTERY [6]
 
 
 I CONFESS that I was considerably startled by this fresh proof of the
@@ -1206,9 +1150,6 @@ open-mouthed behind him.
 
 
 
-CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.
-
-
 IT was one o'clock when we left No. 3, Lauriston Gardens. Sherlock
 Holmes led me to the nearest telegraph office, whence he dispatched a
 long telegram. He then hailed a cab, and ordered the driver to take us
@@ -1488,8 +1429,6 @@ lark while I meditated upon the many-sidedness of the human mind.
 
 
 
-CHAPTER V. OUR ADVERTISEMENT BRINGS A VISITOR.
-
 
 OUR morning's exertions had been too much for my weak health, and I was
 tired out in the afternoon. After Holmes' departure for the concert, I
@@ -1765,9 +1704,6 @@ and knew that he was still pondering over the strange problem which he
 had set himself to unravel.
 
 
-
-
-CHAPTER VI. TOBIAS GREGSON SHOWS WHAT HE CAN DO.
 
 
 THE papers next day were full of the "Brixton Mystery," as they termed
@@ -2152,8 +2088,6 @@ murdered at Halliday's Private Hotel about six o'clock this morning."
 
 
 
-CHAPTER VII. LIGHT IN THE DARKNESS.
-
 
 THE intelligence with which Lestrade greeted us was so momentous and so
 unexpected, that we were all three fairly dumfoundered. Gregson sprang
@@ -2503,13 +2437,6 @@ will refuse to answer them."
 
 
 
-
-PART II. _The Country of the Saints._
-
-
-
-
-CHAPTER I. ON THE GREAT ALKALI PLAIN.
 
 
 IN the central portion of the great North American Continent there lies
@@ -2904,9 +2831,6 @@ the voice of Joseph Smith, which is the voice of God."
 
 
 
-CHAPTER II. THE FLOWER OF UTAH.
-
-
 THIS is not the place to commemorate the trials and privations endured
 by the immigrant Mormons before they came to their final haven. From the
 shores of the Mississippi to the western slopes of the Rocky Mountains
@@ -3159,9 +3083,6 @@ happiest girl in all Utah.
 
 
 
-CHAPTER III. JOHN FERRIER TALKS WITH THE PROPHET.
-
-
 THREE weeks had passed since Jefferson Hope and his comrades had
 departed from Salt Lake City. John Ferrier's heart was sore within him
 when he thought of the young man's return, and of the impending loss of
@@ -3361,9 +3282,6 @@ fastening of the doors that night, and that he carefully cleaned and
 loaded the rusty old shotgun which hung upon the wall of his bedroom.
 
 
-
-
-CHAPTER IV. A FLIGHT FOR LIFE.
 
 
 ON the morning which followed his interview with the Mormon Prophet,
@@ -3724,9 +3642,6 @@ people, and that freedom lay before them.
 
 
 
-CHAPTER V. THE AVENGING ANGELS.
-
-
 ALL night their course lay through intricate defiles and over irregular
 and rock-strewn paths. More than once they lost their way, but Hope's
 intimate knowledge of the mountains enabled them to regain the track
@@ -4056,8 +3971,6 @@ to which we are already under such obligations.
 
 
 
-
-CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.
 
 
 OUR prisoner's furious resistance did not apparently indicate any
@@ -4470,8 +4383,6 @@ way out of the Station and took a cab back to Baker Street.
 
 
 
-
-CHAPTER VII. THE CONCLUSION.
 
 
 WE had all been warned to appear before the magistrates upon the

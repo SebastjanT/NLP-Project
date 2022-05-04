@@ -1,35 +1,3 @@
-The Hound of the Baskervilles
-
-by Sir Arthur Conan Doyle
-
-
-
-
-  CONTENTS
-
-  Chapter 1--Mr. Sherlock Holmes
-  Chapter 2--The Curse of the Baskervilles
-  Chapter 3--The Problem
-  Chapter 4--Sir Henry Baskerville
-  Chapter 5--Three Broken Threads
-  Chapter 6--Baskerville Hall
-  Chapter 7--The Stapletons of Merripit House
-  Chapter 8--First Report of Dr. Watson
-  Chapter 9--The Light Upon The Moor
-  Chapter 10--Extract from the Diary of Dr. Watson
-  Chapter 11--The Man on the Tor
-  Chapter 12--Death on the Moor
-  Chapter 13--Fixing the Nets
-  Chapter 14--The Hound of the Baskervilles
-  Chapter 15--A Retrospection
-
-
-
-
-Chapter 1
-
-Mr. Sherlock Holmes
-
 
 Mr. Sherlock Holmes, who was usually very late in the mornings,
 save upon those not infrequent occasions when he was up all
@@ -323,11 +291,6 @@ what the exact nature of the problem is in which you demand my
 assistance."
 
 
-
-
-Chapter 2
-
-The Curse of the Baskervilles
 
 
 "I have in my pocket a manuscript," said Dr. James Mortimer.
@@ -738,11 +701,6 @@ sank almost to a whisper as he answered:--
 "Mr. Holmes, they were the footprints of a gigantic hound!"
 
 
-
-
-Chapter 3
-
-The Problem
 
 
 I confess at these words a shudder passed through me. There was a
@@ -1203,11 +1161,6 @@ have had the advantage of meeting Dr. Mortimer and Sir Henry
 Baskerville in the morning."
 
 
-
-
-Chapter 4
-
-Sir Henry Baskerville
 
 
 Our breakfast-table was cleared early, and Holmes waited in his
@@ -1755,10 +1708,6 @@ hotel."
 
 
 
-Chapter 5
-
-Three Broken Threads
-
 
 Sherlock Holmes had, in a very remarkable degree, the power of
 detaching his mind at will. For two hours the strange business in
@@ -2263,10 +2212,6 @@ Street once more."
 
 
 
-Chapter 6
-
-Baskerville Hall
-
 
 Sir Henry Baskerville and Dr. Mortimer were ready upon the
 appointed day, and we started as arranged for Devonshire. Mr.
@@ -2676,11 +2621,6 @@ every nerve on the alert, but there came no other sound save the
 chiming clock and the rustle of the ivy on the wall.
 
 
-
-
-Chapter 7
-
-The Stapletons of Merripit House
 
 
 The fresh beauty of the following morning did something to efface
@@ -3298,10 +3238,6 @@ Baskerville Hall.
 
 
 
-Chapter 8
-
-First Report of Dr. Watson
-
 
 From this point onward I will follow the course of events by
 transcribing my own letters to Mr. Sherlock Holmes which lie
@@ -3576,9 +3512,6 @@ upon my observations of last night. I will not speak about it
 just now, but it should make my next report interesting reading.
 
 
-
-
-Chapter 9
 
 (Second Report of Dr. Watson)
 
@@ -4324,8 +4257,6 @@ few days.
 
 
 
-Chapter 10
-
 Extract from the Diary of Dr. Watson
 
 
@@ -4762,10 +4693,6 @@ of the mystery.
 
 
 
-
-Chapter 11
-
-The Man on the Tor
 
 
 The extract from my private diary which forms the last chapter
@@ -5324,10 +5251,6 @@ than in."
 
 
 
-
-Chapter 12
-
-Death on the Moor
 
 
 For a moment or two I sat breathless, hardly able to believe my
@@ -5890,10 +5813,6 @@ lying who had come so horribly to his end.
 
 
 
-Chapter 13
-
-Fixing the Nets
-
 
 "We're at close grips at last," said Holmes as we walked together
 across the moor. "What a nerve the fellow has! How he pulled
@@ -6442,10 +6361,6 @@ will forget your first visit."
 
 
 
-Chapter 14
-
-The Hound of the Baskervilles
-
 
 One of Sherlock Holmes's defects--if, indeed, one may call it a
 defect--was that he was exceedingly loath to communicate his full
@@ -6928,9 +6843,6 @@ moor.
 
 
 
-Chapter 15
-
-A Retrospection
 
 
 It was the end of November and Holmes and I sat, upon a raw and
