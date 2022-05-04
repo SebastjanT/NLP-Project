@@ -16,10 +16,10 @@ with codecs.open('1-1000.txt') as f:
 
 common_words = set(file)
 
-datadir = pathlib.Path(os.getcwd()) / '../data/gutenberg'
+datadir1 = pathlib.Path(os.getcwd()) / '../data/imapbook'
+datadir2 = pathlib.Path(os.getcwd()) / '../data/gutenberg'
 nlp = spacy.load('en_core_web_lg')
-# nltk.download('punkt')
-# needs to run once
+# nltk.download('punkt') # se požene enkrat in je ok
 
 
 def process_ner(input_tokenized):
@@ -65,11 +65,11 @@ def read(story, path):
     return novel
 
 
-def flatten(l):
-    try:
-        return flatten(l[0]) + (flatten(l[1:]) if len(l) > 1 else []) if type(l) is list else [l]
-    except IndexError:
-        return []
+# def flatten(l):
+#     try:
+#         return flatten(l[0]) + (flatten(l[1:]) if len(l) > 1 else []) if type(l) is list else [l]
+#     except IndexError:
+#         return []
 
 
 def process_list(oldlist):
@@ -90,7 +90,7 @@ def top_names(name_list, novel):
     name_frequency = pd.DataFrame(name_frequency.toarray(), columns=vect.get_feature_names_out())
     name_frequency = name_frequency.T
     name_frequency = name_frequency.sort_values(by=0, ascending=False)
-    name_frequency = name_frequency[0:30]
+    name_frequency = name_frequency[0:10]
     names = list(name_frequency.index)
     name_frequency = list(name_frequency[0])
 
@@ -99,15 +99,30 @@ def top_names(name_list, novel):
 
 if __name__ == '__main__':
 
-    story_selected = 'Doyle_TheSignoftheFour'
+    # curstory = 'Doyle_AStudyinScarlet'
 
-    story = read(story_selected, datadir)
+    short_stories = []
 
-    sent_tokens = nltk.sent_tokenize(story)
+    # for file in os.listdir(datadir1):
+    #     if file.endswith('.txt'):
+    #         short_stories.append(file)
 
-    out_ner, alignment = process_ner(sent_tokens)
+    for file in os.listdir(datadir2):
+        if file.endswith('.txt'):
+            short_stories.append(file)
 
-    chars, freqs = top_names(out_ner, story)
+    for curstory in short_stories:
+
+        story = read(curstory, datadir2)
+
+        sent_tokens = nltk.sent_tokenize(story)
+
+        out_ner, alignment = process_ner(sent_tokens)
+
+        chars, freqs = top_names(out_ner, story)
+
+        with open(f"{curstory}.txt", "w") as output:
+            output.write(str(chars))
 
     print('done')
 
