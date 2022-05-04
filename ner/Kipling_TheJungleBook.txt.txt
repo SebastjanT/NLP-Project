@@ -1,0 +1,1 @@
+['mowgli', 'bagheera', 'rikki', 'nag', 'wolf', 'baloo', 'shere', 'khan', 'toomai', 'kotick']
