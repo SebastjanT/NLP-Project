@@ -1,0 +1,6 @@
+{
+    "characters": ["Berkshires", "Jezail", "Ghazis"],
+    "protagonist": "",
+    "antagonist": "",
+    "NER": ["holmes", "drebber", "ferrier", "sherlock", "lestrade", "stangerson", "gregson", "jefferson", "john", "lucy"]
+}
