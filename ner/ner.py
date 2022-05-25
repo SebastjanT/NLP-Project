@@ -103,7 +103,7 @@ if __name__ == '__main__':
 
     short_stories = []
 
-    for file in os.listdir(datadir1):
+    for file in os.listdir(datadir2):
         if file.endswith('.txt'):
             short_stories.append(file)
 
@@ -115,7 +115,7 @@ if __name__ == '__main__':
 
         print('delam na ' + curstory)
 
-        story = read(curstory, datadir1)
+        story = read(curstory, datadir2)
 
         sent_tokens = nltk.sent_tokenize(story)
 
