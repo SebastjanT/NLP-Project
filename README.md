@@ -21,6 +21,15 @@ The report is available at in the root of the repository [Report (Literacy_situa
 
 ## Running the code
 
+To run the raw named entity recognition script clone this repository and excute the following commands:
+```
+cd ./NLP-PROJECT/ner
+python ner.py
+```
+
+Replace the `python` command with `python3` if you are on Linux or MacOS.
+
+
 To run the sentiment analysis code and the accompanying ner (to generate the correct output) all that needs to be done is set the correct variables to where the data is stored.
 
 All the notebooks were ran in Google Colaboratory on a GPU instance, with the data in the folder `NLP-Project` and having the same substructure as the GitHub repository.
